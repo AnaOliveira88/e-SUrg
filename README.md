@@ -8,16 +8,33 @@ um papel preponderante na garantia de uma resposta eficiente e de qualidade para
 doença. Contudo, uma utilização excessiva a estes serviços pode reduzir pode satisfação dos utentes,
 aumentar a carga de trabalho dos profissionais de trabalho, aumentar os gastos e afetar negativamente a
 qualidade do atendimento (Frade & Rodrigues, 2013; Snoswell et al., 2020).
-De acordo com o Instituto Nacional de Estatística (INE) em 2019 foram realizados 8,2 milhões de
-atendimentos nos serviços de urgência dos hospitais, mais 4,1% que em 2018 e mais 8,7% que em 2009.
-Paralelamente, os dados recolhidos mostram que o excesso de procura pelos SUs não se centra apenas nos
-meses de inverno (sazonal), para os quais são implementados planos de contingência, mas também noutros
-meses do ano (Lima, 2019). Ainda em 2019 foram atendidas cerca de 1,4 milhões de chamadas através do
-número europeu de emergência 112, das quais cerca de 71 mil foram transferidas para a Saúde 24 (SNS,
-2020).
-A rápida propagação do SARS-COV-2 levou a que em março de 2020, a OMS declarasse a doença
-COVID-19 uma pandemia. Neste âmbito, a telemedicina tornou-se essencial por forma a assegurar a
-continuidade da prestação de cuidados aos utentes. Com a pandemia, as teleconsultas aumentaram e
-ganharam ainda mais visibilidade, permitindo resolver um dos principais problemas ao reduzir o nível de
-contacto entre as pessoas e, assim evitar a propagação do vírus e as contaminações cruzadas, resguardando
-utentes de grupos de risco, protegidos em casa.
+
+
+Neste projeto podemos consultar toda a informação, inclusive, como a análise funcional do problema foi contemplada, estruturada e validada :
+Introdução
+1.1. Motivação e Objetivos
+1.2. Identificação dos stakeholders
+2. Estudos prévios
+2.1. Utilizador
+2.2. Tecnologia
+3. Desenho Conceptual
+3.1. Desenho do sistema
+3.2. Diagrama de Caso de Uso
+3.3. Diagramas de Atividades
+3.4. Integração da aplicação com plataformas já existentes
+3.5. Logótipo
+3.6. Imagem do sistema
+3.6.1. Entrada e Menu principal
+3.6.2. Saúde 24
+3.6.3. Atendimentos
+3.6.4. Ficheiros
+3.7. Design da aplicação
+3.8. Narrativa/Caso de Uso
+3.9. Requisitos de Software e Hardware
+4. Estudo de Usabilidade
+REFERÊNCIAS BIBLIOGRÁFICAS
+ANEXOS
+Anexo 1. Questionário – Estudo Prévio
+Anexo 2. Guião Entrevista – Estudo Prévio
+Anexo 3. Esboços e estudos da aplicação e-SUrg
+Anexo 4. Questionário Estud
